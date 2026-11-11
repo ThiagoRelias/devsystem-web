@@ -1,4 +1,5 @@
 import React from 'react'
+import "../Styles/Login.scss"
 
 export default function Login() {
     function handleSubmit(event) {
